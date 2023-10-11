@@ -40,6 +40,7 @@ jobs:
         with:
           push: false
           context: .
+          file: Containerfile
           tags: "ghcr.io/${{ env.GITHUB_REPOSITORY_OWNER_PART_SLUG }}/${{ env.GITHUB_REPOSITORY_NAME_PART_SLUG }}:${{ github.sha }}"
 
   push-container-image:
@@ -62,6 +63,7 @@ jobs:
         with:
           push: true
           context: .
+          file: Containerfile
           tags: "ghcr.io/${{ env.GITHUB_REPOSITORY_OWNER_PART_SLUG }}/${{ env.GITHUB_REPOSITORY_NAME_PART_SLUG }}:${{ github.sha }}"
 
   deploy:

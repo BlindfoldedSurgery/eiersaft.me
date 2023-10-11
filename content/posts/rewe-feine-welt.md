@@ -12,6 +12,11 @@ body {
 }
 </style> -->
 
+<details>
+<summary>Bild</summary>
+<img src="/img/rewe-feine-welt.png" />
+</details>
+
 ## Podcast
 
 <figure>

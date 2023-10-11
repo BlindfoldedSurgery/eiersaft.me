@@ -12,6 +12,11 @@ body {
 }
 </style> -->
 
+<details>
+<summary>Bild</summary>
+<img src="/img/der-gute-pott.jpg" />
+</details>
+
 ## Podcast
 
 <figure>

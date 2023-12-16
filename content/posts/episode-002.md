@@ -14,7 +14,7 @@ body {
 
 <details>
 <summary>Bild</summary>
-<img src="/img/glueck-und-seligkeit.jpg" />
+<img src="/img/glueck-und-seligkeit.png" />
 </details>
 
 ## Podcast

@@ -25,6 +25,6 @@ ingress:
 
 service:
   name: eiersaft
-  port: 8080
+  port: 80
   targetPort: 8080
   appSelector: eiersaftme

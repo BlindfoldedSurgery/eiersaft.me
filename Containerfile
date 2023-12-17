@@ -16,6 +16,6 @@ RUN git clone https://github.com/cydave/zola-theme-papermod themes/zola-theme-pa
 
 RUN /bin/zola build
 
-FROM nginxinc/nginx-unprivileged:1.25.3-alpine-slim
+FROM nginx:1.25.3-alpine3.18-slim
 
 COPY --from=builder /usr/app/public/ /usr/share/nginx/html/

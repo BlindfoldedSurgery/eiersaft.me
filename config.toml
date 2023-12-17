@@ -41,6 +41,7 @@ edit_post_url = "https://github.com/BlindfoldedSurgery/eiersaft.me/tree/main"
 #copyright = ""
 date_format = "%Y-%m-%d"
 navigation = [
+    { url = "$BASE_URLposts", title = "Posts" },
     { url = "$BASE_URLtags", title = "Tags" },
     { url = "$BASE_URLrezepte", title = "Rezepte" },
     { url = "https://github.com/BlindfoldedSurgery/eiersaft.me", title = "GitHub", is_external = true }

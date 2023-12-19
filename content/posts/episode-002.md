@@ -6,17 +6,6 @@ date = "2023-12-16"
 tags = ["eiersaft", "glück und seligkeit", "gut nordhausen", "review", "podcast", "rewe feine welt"]
 +++
 
-<!-- <style>
-body {
-    background-image: url("/img/der-gute-pott.jpg") !important;
-}
-</style> -->
-
-<details>
-<summary>Bild</summary>
-<img src="/img/glueck-und-seligkeit.png" />
-</details>
-
 ## Podcast
 
 <figure>
@@ -24,9 +13,8 @@ body {
 </audio>
 </figure>
 
-## Review
-
-## Rating
+<details>
+<summary>wo rating</summary>
 
 #### Björn
 
@@ -53,3 +41,6 @@ body {
 <img src="/img/empty-egg.png" class="egg-rating-item" />
 <img src="/img/empty-egg.png" class="egg-rating-item" />
 <img src="/img/empty-egg.png" class="egg-rating-item" />
+</details>
+
+<img src="/img/glueck-und-seligkeit.png" />

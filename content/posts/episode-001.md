@@ -6,18 +6,6 @@ date = "2023-08-29"
 tags = ["eiersaft", "rewe feine welt", "review", "podcast", "pott"]
 +++
 
-<!-- <style>
-body {
-    background-image: url("/img/rewe-feine-welt.png") !important;
-}
-</style> -->
-
-<details>
-<summary>Bilder</summary>
-<img src="/img/rewe-feine-welt.png" />
-<img src="/img/der-gute-pott.jpg" />
-</details>
-
 ## Podcast
 
 <figure>
@@ -25,7 +13,8 @@ body {
 </audio>
 </figure>
 
-## Rating
+<details>
+<summary><h2 style="display: inline;">wo rating</h2></summary>
 
 ### Rewe Feine Welt
 
@@ -82,3 +71,7 @@ body {
 <img src="/img/egg.png" class="egg-rating-item" />
 <img src="/img/empty-egg.png" class="egg-rating-item" />
 <img src="/img/empty-egg.png" class="egg-rating-item" />
+</details>
+
+<img style="display: inline;" src="/img/rewe-feine-welt.png" />
+<img style="display: inline;" src="/img/der-gute-pott.jpg" />

@@ -6,17 +6,6 @@ date = "2023-12-18"
 tags = ["eiersaft", "verpoorten", "review", "podcast", "rewe feine welt"]
 +++
 
-<!-- <style>
-body {
-    background-image: url("/img/der-gute-pott.jpg") !important;
-}
-</style> -->
-
-<details>
-<summary>Bild</summary>
-<img src="/img/verpoorten.jpg" />
-</details>
-
 ## Podcast
 
 <figure>
@@ -24,7 +13,8 @@ body {
 </audio>
 </figure>
 
-## Review
+<details>
+<summary>wo rating</summary>
 
 #### Björn
 
@@ -51,3 +41,6 @@ body {
 <img src="/img/empty-egg.png" class="egg-rating-item" />
 <img src="/img/empty-egg.png" class="egg-rating-item" />
 <img src="/img/empty-egg.png" class="egg-rating-item" />
+</details>
+
+<img src="/img/verpoorten.jpg" />

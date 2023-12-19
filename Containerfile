@@ -3,7 +3,7 @@ FROM debian:stable-slim as builder
 RUN apt-get update && \
     apt-get install -y git
 
-COPY --from=ghcr.io/getzola/zola:v0.17.2 /bin/zola /bin/zola
+COPY --from=ghcr.io/getzola/zola:v0.18.0 /bin/zola /bin/zola
 RUN chmod +x /bin/zola
 
 WORKDIR /usr/app

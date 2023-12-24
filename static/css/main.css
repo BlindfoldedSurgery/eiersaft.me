@@ -1,7 +1,10 @@
 .egg-rating-item {
     width: 20px;
-    display: inline;
-    margin: 0px 2px !important;
+}
+
+img {
+    display: inline !important;
+    margin: 5px;
 }
 
 audio {

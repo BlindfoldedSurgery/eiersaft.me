@@ -1,3 +1,2 @@
 static/audio/podcasts/*.ogg filter=lfs diff=lfs merge=lfs -text
 static/img/recipes/**/*.mp4 filter=lfs diff=lfs merge=lfs -text
-static/img/recipes/eierpizza/mixmixmix.mp4 filter=lfs diff=lfs merge=lfs -text

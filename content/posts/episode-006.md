@@ -1,5 +1,5 @@
 +++
-title = "Episode 006 - Die Vier-Säfte Tournee"
+title = "Episode 006 - Die Viersäftetournee"
 date = "2024-01-01"
 
 [taxonomies]

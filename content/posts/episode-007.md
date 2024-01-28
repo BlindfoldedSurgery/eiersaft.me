@@ -8,6 +8,8 @@ tags = ["eiersaft", "wild", "gast", "gastepisode", "rewe feine welt", "review", 
 
 ## Podcast
 
+(!) Audio warning: Das Intro ist sehr laut
+
 <figure>
 <audio controls src="/audio/podcasts/episode-007.ogg" type="audio/ogg">
 </audio>

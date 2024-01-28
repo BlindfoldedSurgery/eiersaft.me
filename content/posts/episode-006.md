@@ -66,6 +66,6 @@ tags = ["eiersaft", "eckes", "kirschsaft", "offenes Bein", "rewe feine welt", "r
 
 </details>
 
-<!-- <img src="/img/eckes-eiersaft.jpg" />
-<img src="/img/eckes-kirschsaft.jpg" /> -->
+<img src="/img/eckes-eiersaft.jpg" />
+<img src="/img/eckes-kirschsaft.jpg" />
 <img src="/img/offenes-bein.jpg" />
